@@ -1,0 +1,36 @@
+#content{	
+	border: 2px solid ;
+    border-radius: 10px;
+    width: 63%;
+    height: 60%;
+background-color:   #eeeeee;
+}
+#dr{
+	width: 150px;
+	height: 150px;
+	border: 2px solid #ababab;
+    border-radius: 12px;
+
+}
+a{
+	color: #2463b4;
+	position: relative;
+	
+}
+#div2{
+	float: center;
+	position: relative;
+	left: 1px;
+	bottom: 25px;
+}
+#div1{
+
+position: relative;
+	right: 350px;
+	top: 150px;
+}
+#div3{
+	position: relative;
+	left: 350px;
+	bottom:  200px;	
+}

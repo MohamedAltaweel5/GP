@@ -1,0 +1,82 @@
+body{
+    font-family: serif;
+}
+.header .login{
+    color:#652d8a;
+    margin-top: 25px;    
+}
+.header .login .form-control{
+    border-radius: 0;
+}
+.menu{    
+    color:#652d8a;
+    font-weight: bold;
+    
+}
+.navbar-default{
+    background-color:#7ac142;
+    color:#652d8a;
+    margin-top:15px;
+}
+.navbar-default .navbar-nav > li > a{
+    color:#652d8a;
+}
+.navbar-default .navbar-nav > li > a:hover{
+    color:#fff;
+}
+.navbar-default .navbar-nav > .open > a:focus{
+    color: #fff;
+    background-color: #652d8a; 
+}
+.navbar-default .navbar-nav > .open > a:hover{
+    color: #fff;
+    background-color: #652d8a;
+}
+.jobs{
+    margin-top: 20px;
+}
+.aboutCompany{
+    background-color: #fff;
+    border-radius: 6px;
+    height: 400px; 
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.visionMission{
+    background-color: #fff;
+    border-radius: 6px;
+    height: 400px; 
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.aboutCompanyText{
+    float:left;
+}
+.visionMissionText{
+    float:right;
+}
+.findjob{
+    height:80px;
+    
+    background-color: #7ac142;
+    margin:0 auto;
+    margin-top:-50px;
+    border-radius: 8px;
+}
+.comments{
+    background-color: #fff;
+}
+.comments p{
+    color: #652d8a;
+    font-family: cursive;
+}
+.comments h3{
+    color: #7ac142;
+}
+.footer{
+    height:50px;
+    background-color: #7ac142;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #652d8a;
+}
